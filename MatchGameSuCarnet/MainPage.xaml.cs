@@ -24,6 +24,7 @@ public partial class MainPage : ContentPage
         "🐬","🐬",
         };
         Random random = new Random();
+        //Recorre el grid asignando un emoji Francisco
         foreach (Label view in Grid1.Children)
         {
 
